@@ -1,10 +1,9 @@
 # My PhD Thesis
---------------------------
 
-> contributor
+## Contributor
 
-Thushadh Wijesekere
+> Thushadh Wijesekere
 
-> description
+## Description
 
-All the TeX files, images, etc related to my thesis.
+> All the TeX files, images, etc related to my thesis.
